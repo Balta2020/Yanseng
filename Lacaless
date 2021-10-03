@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF: 1, TELECADENA
+https://bcovlive-a.akamaihd.net:443/825f39eaa17d4794a3898945026556e0/us-west-2/6056665196001/profile_0/chunklist.m3u8
+#EXTINF: 1, BeinSport USA
+http://31.220.41.88:8081/live/beinus.stream/playlist.m3u8
